@@ -1,0 +1,21 @@
+set -e
+set -x
+
+BASH_SRC=`realpath $0`
+BASH_DIR=`dirname ${BASH_SRC}`
+BASE_DIR=`dirname ${BASH_DIR}`
+
+PREFIX_DIR=${BASE_DIR}/opt/cross
+BIN_DIR=${PREFIX_DIR}/bin
+
+APP=ninja
+SRC_DIR=${BASE_DIR}/srcs/${APP}
+BUILD_DIR=${SRC_DIR}
+
+mkdir -p ${BIN_DIR}
+
+cd ${SRC_DIR}
+git checkout v1.6.0
+cd ${BUILD_DIR}
+./configure.py --bootstrap
+cp ${APP} ${BIN_DIR}/

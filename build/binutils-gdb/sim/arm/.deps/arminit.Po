@@ -1,0 +1,14 @@
+arminit.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/arminit.c \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h \
+ config.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/dbg_rdi.h
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h:
+
+config.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/dbg_rdi.h:

@@ -1,0 +1,34 @@
+run.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../common/run.c \
+ ../common/cconfig.h tconfig.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/libiberty.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h \
+ ../../bfd/bfd.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/symcat.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/callback.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/remote-sim.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../common/run-sim.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../common/version.h
+
+../common/cconfig.h:
+
+tconfig.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/libiberty.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h:
+
+../../bfd/bfd.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/symcat.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/callback.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/remote-sim.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../common/run-sim.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../common/version.h:

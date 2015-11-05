@@ -1,0 +1,11 @@
+flonum-mult.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/flonum-mult.c \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/../include/ansidecl.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/flonum.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/bignum.h
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/../include/ansidecl.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/flonum.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gas/bignum.h:

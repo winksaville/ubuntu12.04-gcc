@@ -1,0 +1,2 @@
+not-ranlib.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/binutils/not-ranlib.c

@@ -1,0 +1,249 @@
+stabsread.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/stabsread.c \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/defs.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-defs.h \
+ config.h build-gnulib/config.h build-gnulib/import/string.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/ansidecl.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/libiberty.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/ansidecl.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gnulib/import/pathmax.h \
+ build-gnulib/import/unistd.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/gdb/signals.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/gdb/signals.def \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_locale.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/ptid.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-utils.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_assert.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/errors.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-types.h \
+ ../bfd/bfd.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/symcat.h \
+ build-gnulib/import/sys/stat.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/print-utils.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-debug.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/cleanups.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-exceptions.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_setjmp.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_wchar.h \
+ build-gnulib/import/wctype.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ui-file.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/host-defs.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/hashtab.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/fopen-bin.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdbarch.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/frame.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/unwind_stop_reasons.def \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/utils.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/exceptions.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ui-out.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_obstack.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/obstack.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/symtab.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/vec.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_vecs.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/vec.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdbtypes.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/minsyms.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/expression.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/doublest.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/floatformat.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/std-operator.def \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ada-operator.def \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/symfile.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/probe.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/objfiles.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/progspace.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/target.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/waitstatus.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_signals.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/resume.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/wait.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/waitstatus.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/memattr.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/btrace.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/btrace-common.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/command.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/registry.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_bfd.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/stab_gnu.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/stab.def \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../bfd/libaout.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/bfdlink.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/aout64.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb-stabs.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/buildsym.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/complaints.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/demangle.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/libiberty.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb-demangle.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/language.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/cp-abi.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/cp-support.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/stabsread.h
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/defs.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-defs.h:
+
+config.h:
+
+build-gnulib/config.h:
+
+build-gnulib/import/string.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/ansidecl.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/libiberty.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/ansidecl.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gnulib/import/pathmax.h:
+
+build-gnulib/import/unistd.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/gdb/signals.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/gdb/signals.def:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_locale.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/ptid.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-utils.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_assert.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/errors.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-types.h:
+
+../bfd/bfd.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/symcat.h:
+
+build-gnulib/import/sys/stat.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/print-utils.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-debug.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/cleanups.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/common-exceptions.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_setjmp.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_wchar.h:
+
+build-gnulib/import/wctype.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ui-file.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/host-defs.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/hashtab.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/fopen-bin.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdbarch.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/frame.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/unwind_stop_reasons.def:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/utils.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/exceptions.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ui-out.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_obstack.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/obstack.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/symtab.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/vec.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_vecs.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/vec.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdbtypes.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/minsyms.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/expression.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/doublest.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/floatformat.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/std-operator.def:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/ada-operator.def:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/symfile.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/probe.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/objfiles.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/progspace.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/target.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/waitstatus.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/gdb_signals.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/resume.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/wait.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/target/waitstatus.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/memattr.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/btrace.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/btrace-common.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/command.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/registry.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb_bfd.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/stab_gnu.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/stab.def:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../bfd/libaout.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/bfdlink.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/aout/aout64.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb-stabs.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/buildsym.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/complaints.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/demangle.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/../include/libiberty.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/gdb-demangle.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/language.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/cp-abi.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/cp-support.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/stabsread.h:

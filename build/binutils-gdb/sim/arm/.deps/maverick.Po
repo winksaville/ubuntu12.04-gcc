@@ -1,0 +1,14 @@
+maverick.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/maverick.c \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h \
+ config.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h:
+
+config.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h:

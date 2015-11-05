@@ -1,0 +1,2 @@
+not-strip.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/binutils/not-strip.c

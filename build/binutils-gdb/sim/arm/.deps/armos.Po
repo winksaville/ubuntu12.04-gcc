@@ -1,0 +1,35 @@
+armos.o: \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armos.c \
+ config.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h \
+ targ-vals.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armos.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armfpe.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/dbg_rdi.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/callback.h \
+ ../../bfd/bfd.h \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/symcat.h
+
+config.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/ansidecl.h:
+
+targ-vals.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armdefs.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armos.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armemu.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/armfpe.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/dbg_rdi.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/gdb/callback.h:
+
+../../bfd/bfd.h:
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/sim/arm/../../include/symcat.h:

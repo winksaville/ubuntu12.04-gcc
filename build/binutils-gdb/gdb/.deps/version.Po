@@ -1,0 +1,4 @@
+version.o: version.c \
+ /home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/version.h
+
+/home/wink/docker/ubuntu12.04-gcc/srcs/binutils-gdb/gdb/common/version.h:
